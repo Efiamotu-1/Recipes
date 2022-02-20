@@ -1,0 +1,15 @@
+{
+  "name": "security-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css" : "npx tailwindcss-cli@latest build src/style.css -o css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.0.22"
+  }
+}
